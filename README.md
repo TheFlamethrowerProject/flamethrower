@@ -1,7 +1,7 @@
 # DIY Flamethrower
+<sub><sup>This repository is still under construction. Links may be innactive and not all files have been uploaded.</sup></sub>
 
 ![](Media/Logo.jpg)  
-<sub><sup>This repository is still under construction. Links may be innactive and not all files have been uploaded.</sup></sub>
 
 **The Samson Taxon Flamethrower**  - Personal, handheld, butane fueled, 3D printed personal flamethrower!
 
