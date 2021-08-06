@@ -1,5 +1,4 @@
-# flamethrower
-
+# DIY Flamethrower
 
 ![](Media/Logo.jpg)  
 
