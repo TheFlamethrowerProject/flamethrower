@@ -12,7 +12,7 @@ Great for cooking, cleaning, and tons of recreational activities!
 ## How it works
 The 3D Printed shell houses a full 135ml can of butane which resrts in the prnted nozzle. The can is actuated by an N20 geared motor and the butane is ignited via a plasma arc in the path of the spray. All of the electronics are code free and clearly layed out in ![](Wiring/Schematic.jpg)
 
-![](Media/Animation.gif)  
+![](Media/turn1.gif)  
 *[YouTube link]()*
 
 ## The Build
