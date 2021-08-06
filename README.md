@@ -9,9 +9,9 @@ Great for cooking, cleaning, and tons of recreational activities!
 ![](Media/turn2.gif)  
 
 <p float="left">
-  <img src="Media/turn2.gif" width="100" />
+  <img src="Media/turn2.gif"/>
 
-  <img src="Media/marshmallow.gif" width="100" />
+  <img src="Media/marshmallow.gif"/>
 </p>
 
 ## How it works
