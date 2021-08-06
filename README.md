@@ -14,6 +14,9 @@ The 3D Printed shell houses a full 135ml can of butane which rests in the printe
 This version has no metal fastners. Just 3d printed links and clever ziptie usage.
 
 ![](Media/color-split.png) 
+
+![](Media/marshmallow.gif)
+
 *[YouTube link]()*
 
 ## The Build
