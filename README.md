@@ -3,7 +3,7 @@
 
 ![](Media/Logo.jpg)  
 
-**The Samson Taxon Flamethrower**  - Personal, handheld, butane fueled, 3D printed personal flamethrower!
+**The Samson Taxon Flamethrower**  - Personal, handheld, butane fueled, 3D printed flamethrower!
 
 Great for cooking, cleaning, and tons of recreational activities! 
 
