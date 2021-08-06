@@ -3,7 +3,9 @@
 
 ![](Media/Logo.jpg)  
 
-**DIY Flamethrower** is a handheld butane 3D printed personal flamethrower!
+**DIY Flamethrower**  - Personal, handheld, butane fueled, 3D printed personal flamethrower!
+
+Great for cooking, cleaning, and tons of recreational activities! 
 
 ![](Media/Models.jpg)  
 
