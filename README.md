@@ -3,7 +3,7 @@
 
 ![](Media/Logo.jpg)  
 
-**DIY Flametrhower** is a handheld butane 3D printed personal flamethrower!
+**DIY Flamethrower** is a handheld butane 3D printed personal flamethrower!
 
 ![](Media/Models.jpg)  
 
@@ -13,8 +13,8 @@ The 3D Printed shell houses a full 135ml can of butane which resrts in the prnte
 ![](Media/Animation.gif)  
 *[YouTube link]()*
 
-## Installation
-Detailed installation instruction are given in the [Wiki](https://github.com/Sakati84/3DPrintColorizer/wiki/1-Hardware-Setup). Please follow each step to complete the installation and get ready for mutli color printing.
+## The Build
+Detailed assembly instruction are given in the [Wiki](). Please follow each step to complete the build and start THROWING FLAMES! Safely of course :)
 
 [1. Hardware Setup]()
 
