@@ -25,7 +25,7 @@ Detailed assembly instruction are given in the [Wiki](). Please follow each step
 
 [1. Hardware Setup](https://github.com/SamsonTaxon/flamethrower/wiki/Hardware-Setup)
 
-[2. Materials needed]()
+[2. Materials needed](https://github.com/SamsonTaxon/flamethrower/wiki/Materials)
 
 [3. Safety and Usage Guide]()
 
