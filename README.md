@@ -23,7 +23,7 @@ This version has no metal fastners. Just 3d printed links and clever ziptie usag
 ## The Build
 Detailed assembly instruction are given in the [Wiki](). Please follow each step to complete the build and start THROWING FLAMES! Safely of course :)
 
-[1. Hardware Setup]()
+[1. Hardware Setup](https://github.com/SamsonTaxon/flamethrower/wiki/Hardware-Setup)
 
 [2. Materials needed]()
 
