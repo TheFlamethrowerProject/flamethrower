@@ -31,7 +31,11 @@ Detailed assembly instruction are given in the [Wiki](https://github.com/SamsonT
 
 [4. Customize and Share]()
 
-
+## Images
+> I'll add more soon
+## FAQ
+> Won't the plastic Melt?
+Nope. The butane is ignited far away fom the plastic. The chassis will remain at air temperature and will get colder as the butane can empties. The flame is a signifcant distance away from the device.
 ---
 More about me:
 
