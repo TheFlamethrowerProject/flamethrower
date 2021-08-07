@@ -18,7 +18,7 @@ This version has no metal fastners. Just 3d printed links and clever ziptie usag
 
 ![](Media/color-split.png) 
 
-*[YouTube link]()*
+<!-- *[YouTube link]()* -->
 
 ## The Build
 Detailed assembly instruction are given in the [Wiki](). Please follow each step to complete the build and start THROWING FLAMES! Safely of course :)
