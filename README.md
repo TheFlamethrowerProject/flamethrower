@@ -23,13 +23,13 @@ This version has no metal fastners. Just 3d printed links and clever ziptie usag
 ## The Build
 Detailed assembly instruction are given in the [Wiki](https://github.com/SamsonTaxon/flamethrower/wiki). Please follow each step to complete the build and start THROWING FLAMES! Safely of course :)
 
-[1. Hardware Setup](https://github.com/SamsonTaxon/flamethrower/wiki/Hardware-Setup)
+[1. Hardware Setup](https://github.com/SamsonTaxon/flamethrower/wiki/1.-Hardware-Setup)
 
-[2. Materials needed](https://github.com/SamsonTaxon/flamethrower/wiki/Materials)
+[2. Materials needed](https://github.com/SamsonTaxon/flamethrower/wiki/2.-Materials)
 
-[3. Safety and Usage Guide]()
+[3. Safety and Usage Guide](https://github.com/SamsonTaxon/flamethrower/wiki/3.-Safety-and-Usage)
 
-[4. Customize and Share]()
+[4. Customize and Share](https://github.com/SamsonTaxon/flamethrower/wiki/4.-Customize-and-Share)
 
 ## Images
 > I'll add some soon
