@@ -1,5 +1,5 @@
 # DIY Flamethrower - This is not a toy
-<sub><sup>This repository is still under construction. Links may be innactive and not all files have been uploaded.</sup></sub>
+<sub>This repository is still under construction. Links may be innactive and not all files have been uploaded.</sub>
 
 <!-- ![](Media/Logo.jpg)   -->
 
