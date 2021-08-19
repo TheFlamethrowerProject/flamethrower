@@ -1,4 +1,4 @@
-# DIY Flamethrower
+# DIY Flamethrower - This is not a toy
 <sub><sup>This repository is still under construction. Links may be innactive and not all files have been uploaded.</sup></sub>
 
 ![](Media/Logo.jpg)  
@@ -22,6 +22,8 @@ This version has no metal fastners. Just 3d printed links and clever ziptie usag
 
 ## The Build
 Detailed assembly instruction are given in the [Wiki](https://github.com/SamsonTaxon/flamethrower/wiki). Please follow each step to complete the build and start THROWING FLAMES! Safely of course :)
+
+[0. Warning](https://github.com/SamsonTaxon/flamethrower/wiki/0.-Warning)
 
 [1. Hardware Setup](https://github.com/SamsonTaxon/flamethrower/wiki/1.-Hardware-Setup)
 
