@@ -40,5 +40,6 @@ Detailed assembly instruction are given in the [Wiki](https://github.com/SamsonT
 Nope. The butane is ignited far away fom the plastic. The chassis will remain at air temperature and will get colder as the butane can empties. The flame is a signifcant distance away from the device.
 ---
 More about me:
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/SamsonTaxon.svg?style=social&label=Follow%20%40SamsonTaxon)](https://twitter.com/SamsonTaxon)
 
 <a href="https://www.samsontaxon.com/" target="_blank"><img src="Media/samtax.png" width="150" height="40" ></a>
